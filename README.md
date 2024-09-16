@@ -1,4 +1,4 @@
-# Django-Storefront-App
+# Django-Storefront-App ( Python + Django )
 
 # Prerequisites
 ## What you should know before taking this project
