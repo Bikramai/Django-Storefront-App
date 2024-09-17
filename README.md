@@ -37,6 +37,9 @@ Django is what we call batteries included with comes a lot of features so that w
 
 Saying the framework is better than Django -its kinda like saying Ferrari than truck coz it is faster. But if you wanna move something we are not going to use Ferrari for that. So Wise software engineer doesn’t pick up the framework merely base on performance. There is so many things we need to take in to count like maturity of framework, how stablility from one version to another, it’s learning curve, and size of cummunity and so on(Maturity, Stability, Difficulty, Community).
 
+## How the Web Works
+We learn that the django is the
+
 # Section-1: Django Fundamentals
 - Introduction to Django
 - Fundamentals of web development
