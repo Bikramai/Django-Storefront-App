@@ -68,7 +68,7 @@ In contrash, we have server side tools for building backends. Django falls in th
 
 So if we push the responsibility of generating web pages to the client, the server essentially becomes a gateway to the data. On the  server, we can provide endpionts that the client can talk to, to get or save various pieces of data. For Example, we can provide one endpoint to get the list of products, and another endpoint to get the list of orders someone has placed. Now all these endpoints together represent the interface that clients use to talk to the server. In technical terms, We say the server provides an API, or an application programming interface to clients. The API is essentially like the buttons on a remote control. All these buttons together represent the interface or the API we use to interact with the TV. 
 
-So, Our focus in the project is on using Django to build an API for online store. Client applications can use his API to get or save the data. How these clients are build is irrelevant . Here we can use react, angular, or even plain JavaScript that falls under frontend development, which has nothing to do with Django. Once we build this API. If we know frontend development, we can always build a client app that talks to this API.
+So, Our focus in the project is using Django to build an API for online store. Client applications can use his API to get or save the data. How these clients are build is irrelevant . Here we can use react, angular, or even plain JavaScript that falls under frontend development, which has nothing to do with Django. Once we build this API. If we know frontend development, we can always build a client app that talks to this API.
 
 # Section-1: Django Fundamentals
 - Introduction to Django
