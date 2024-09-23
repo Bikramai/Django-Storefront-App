@@ -6,7 +6,4 @@ from django.shortcuts import render
 # reequest handler
 # action
 def say_hello(request):
-    return HttpResponse('Hello World')
-    # Pull data from db
-    # Transform 
-    # Send email 
+    return render(request, 'hello.html', {'name': 'Bikram'})
