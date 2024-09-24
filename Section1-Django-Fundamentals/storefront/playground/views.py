@@ -6,4 +6,6 @@ from django.shortcuts import render
 # reequest handler
 # action
 def say_hello(request):
+    x = 1
+    y = 2
     return render(request, 'hello.html', {'name': 'Bikram'})
