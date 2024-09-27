@@ -76,3 +76,9 @@ So, Our focus in the project is on using Django to build an API for online store
 - Setting up the development environment
 - My first Django project
 - 2 essential debugging techniques
+
+# Section-2: Building a Data Model
+- Introduction to data modeling
+- Building an e-commerde data model
+- Organizing models in apps 
+- Codiing model classes
