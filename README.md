@@ -82,3 +82,9 @@ So, Our focus in the project is on using Django to build an API for online store
 - Building an e-commerde data model
 - Organizing models in apps 
 - Codiing model classes
+
+# Section-3: Setting Up the Database
+- Creating Migrations
+- Running Migrations
+- Reversing Migrations
+- Populatin the Database
