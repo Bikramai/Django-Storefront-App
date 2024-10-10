@@ -13,7 +13,7 @@ class TaggedItem(models.Model):
     # Type (product, video, article)
     # ID
     content_type = models.ForeignKey(ContentType, on_delete=models.CASCADE)
-    objects_id = models.PositiveBigIntegerField()
+    object_id = models.PositiveBigIntegerField()
     content_object = GenericForeignKey()
 
 
@@ -23,5 +23,5 @@ class LikedItem(models.Model):
     # Type (product, video, article)
     # ID
     content_type = models.ForeignKey(ContentType, on_delete=models.CASCADE)
-    objects_id = models.PositiveBigIntegerField()
+    object_id = models.PositiveBigIntegerField()
     content_object = GenericForeignKey()
