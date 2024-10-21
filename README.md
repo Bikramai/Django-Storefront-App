@@ -88,3 +88,10 @@ So, Our focus in the project is on using Django to build an API for online store
 - Running Migrations
 - Reversing Migrations
 - Populatin the Database
+
+# Section4: Django ORM
+- Introduction to Django ORM
+- Querying and munipulating data
+- Feltering data
+- Sorting data
+- Grouping data
